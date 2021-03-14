@@ -12,4 +12,5 @@
 ## 📫 How to reach me
 
 Connect with me on [LinkedIn](https://www.linkedin.com/in/oxana-peregud/) 👨🏻‍💻
+</p>
 Send me an [email](mailto:ox.peregud@gmail.com) 
