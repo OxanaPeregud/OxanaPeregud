@@ -9,6 +9,8 @@
 <img width="15%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg" />
 <img width="15%" src="https://www.vectorlogo.zone/logos/json/json-ar21.svg" />
 <img width="15%" src="https://www.vectorlogo.zone/logos/w3c_xml/w3c_xml-ar21.svg" />
+<br>
+<img width="15%" src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Maven_logo.svg" />
 </p>
 
 ## 📫 How to reach me
