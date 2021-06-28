@@ -15,8 +15,6 @@
 <img width="15%" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg" />
 <img width="15%" src="https://upload.vectorlogo.zone/logos/apache_maven/images/bf250be6-ab7f-4191-b421-8d0acb1dc6e4.svg" />
 <br>
-<img width="15%" src="https://www.vectorlogo.zone/logos/json/json-ar21.svg" />
-<img width="15%" src="https://www.vectorlogo.zone/logos/w3c_xml/w3c_xml-ar21.svg" />
 <img width="15%" src="https://www.vectorlogo.zone/logos/apache_tomcat/apache_tomcat-ar21.svg" />
 <img width="15%" src="https://www.vectorlogo.zone/logos/postgresql/postgresql-ar21.svg" />
 <img width="15%" src="https://www.vectorlogo.zone/logos/jenkins/jenkins-ar21.svg" />
