@@ -7,7 +7,7 @@
 <img width="15%" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg" />
 <img width="15%" src="https://www.vectorlogo.zone/logos/angular/angular-ar21.svg" />
 <img width="15%" src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-ar21.svg" />
-<img width="15%" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg" />
+<img width="15%" src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg" />
 <img width="15%" src="https://www.vectorlogo.zone/logos/npmjs/npmjs-ar21.svg" />
 <br>
 <img width="15%" src="https://www.vectorlogo.zone/logos/springio/springio-ar21.svg" />
