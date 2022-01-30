@@ -14,6 +14,7 @@
 <img width="15%" src="https://www.vectorlogo.zone/logos/postgresql/postgresql-ar21.svg" />
 <img width="15%" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg" />
 <img width="15%" src="https://upload.vectorlogo.zone/logos/ibm/images/0081c528-9df8-48e2-bf29-7adfc7673bfd.svg" />
+<img width="15%" src="https://www.vectorlogo.zone/logos/atlassian_jira/atlassian_jira-ar21.svg" />
 <br>
 <img width="15%" src="https://www.vectorlogo.zone/logos/springio/springio-ar21.svg" />
 <img width="15%" src="https://www.vectorlogo.zone/logos/hibernate/hibernate-ar21.svg" />
@@ -25,6 +26,7 @@
 <img width="15%" src="https://upload.vectorlogo.zone/logos/ibm/images/8af40fc1-a22e-4fb0-ae7a-e996c23b2dca.svg" />
 <img width="15%" src="https://www.vectorlogo.zone/logos/gradle/gradle-ar21.svg" />
 <img width="15%" src="https://upload.vectorlogo.zone/logos/apache_maven/images/bf250be6-ab7f-4191-b421-8d0acb1dc6e4.svg" />
+<img width="15%" src="https://www.vectorlogo.zone/logos/jetbrains/jetbrains-ar21.svg" />
 <br>
 <img width="15%" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-ar21.svg" />
 <img width="15%" src="https://www.vectorlogo.zone/logos/github/github-ar21.svg" />
