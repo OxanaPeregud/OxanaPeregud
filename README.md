@@ -9,13 +9,15 @@
 <img width="15%" src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-ar21.svg" />
 <img width="15%" src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg" />
 <img width="15%" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg" />
+<img width="15%" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg" />
 <br>
-<img width="15%" src="https://upload.vectorlogo.zone/logos/liquibase/images/bd2ff83d-5758-4629-ad54-b1de6f15c7c1.svg" />
+<img width="15%" src="https://www.vectorlogo.zone/logos/graphql/graphql-ar21.svg" />
 <img width="15%" src="https://www.vectorlogo.zone/logos/postgresql/postgresql-ar21.svg" />
+<img width="15%" src="https://upload.vectorlogo.zone/logos/liquibase/images/bd2ff83d-5758-4629-ad54-b1de6f15c7c1.svg" />
 <img width="15%" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg" />
 <img width="15%" src="https://upload.vectorlogo.zone/logos/ibm/images/0081c528-9df8-48e2-bf29-7adfc7673bfd.svg" />
-<img width="15%" src="https://www.vectorlogo.zone/logos/atlassian_jira/atlassian_jira-ar21.svg" />
 <br>
+<img width="15%" src="https://www.vectorlogo.zone/logos/atlassian_jira/atlassian_jira-ar21.svg" />
 <img width="15%" src="https://www.vectorlogo.zone/logos/springio/springio-ar21.svg" />
 <img width="15%" src="https://www.vectorlogo.zone/logos/hibernate/hibernate-ar21.svg" />
 <img width="15%" src="https://upload.vectorlogo.zone/logos/mockito/images/36c60459-46b2-46dd-87b7-5ed157df95d4.svg" />
