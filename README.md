@@ -41,6 +41,7 @@
 <img width="15%" src="https://www.vectorlogo.zone/logos/npmjs/npmjs-ar21.svg" />
 <img width="15%" src="https://www.vectorlogo.zone/logos/docker/docker-ar21.svg" />
 <img width="15%" src="https://www.vectorlogo.zone/logos/minioio/minioio-ar21.svg" />
+<img width="15%" src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-ar21.svg" />
 </p>
 
 ## 📫 How to reach me
